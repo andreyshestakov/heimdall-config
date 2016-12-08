@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export SEED_SSH_ADDRESS="192.168.122.194"
+export SEED_SSH_USER="user"
 export BIFROST_GIT_URL="https://github.com/andreyshestakov/bifrost"
 export ANSIBLE_PIP_VERSION="2.1"
 export CONDUCTOR_KEY='
