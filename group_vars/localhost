@@ -1,0 +1,7 @@
+---
+ipa_kernel_upstream_url: http://10.20.0.1/ansible_ubuntu.kernel
+ipa_ramdisk_upstream_url: http://10.20.0.1/ansible_ubuntu.initramfs
+dhcp_pool_start: 10.20.0.10
+dhcp_pool_end: 10.20.0.100
+dhcp_static_mask: 255.255.255.0
+
